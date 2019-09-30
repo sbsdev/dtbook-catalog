@@ -1,0 +1,11 @@
+dtbook-catalog for Debian
+-------------------------
+
+This package contains the DTBook DTD.
+
+It was fetched from http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd
+
+A description can be found at
+https://daisy.org/activities/standards/daisy/daisy-3/
+
+ -- Christian Egli <christian.egli@sbs.ch>, Mon, 30 Sep 2019 15:43:12 +0200
