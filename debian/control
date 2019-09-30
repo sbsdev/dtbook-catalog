@@ -1,5 +1,5 @@
 Source: dtbook-catalog
-Section: unknown
+Section: text
 Priority: optional
 Maintainer: Christian Egli <christian.egli@sbs.ch>
 Build-Depends: debhelper (>= 11)
