@@ -1,8 +1,8 @@
+*~
 /debian/.debhelper/
 /debian/debhelper-build-stamp
+/debian/dtbook-catalog.*.debhelper
+/debian/dtbook-catalog.debhelper.log
 /debian/dtbook-catalog.substvars
 /debian/dtbook-catalog/
 /debian/files
-*~
-/debian/dtbook-catalog.*.debhelper
-/debian/dtbook-catalog.debhelper.log
