@@ -9,5 +9,11 @@ Homepage: https://www.daisy.org/z3986/2005/dtbook-2005-3.dtd
 Package: dtbook-catalog
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Digital Talking Book Document Type Definition (DTD)
+ The Digital Talking Book Document Type Definition (DTD) provides
+ the means to mark up the text of a document to permit support for
+ the combination of professional narration and navigation into that
+ narration. It also facilitates the output of a document's content in
+ a variety of accessible formats. The markup tags in the book convey
+ its content in structure, and contain some metadata about the book
+ content and its structure.
