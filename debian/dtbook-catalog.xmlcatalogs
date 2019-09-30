@@ -1,1 +1,4 @@
-local;debian/catalog.xml;/usr/share/xml/dtbook-catalog/
+local;debian/catalog.xml;/usr/share/xml/dtbook/
+
+root-and-package;system;http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd;/usr/share/xml/dtbook/dtbook-2005-3.dtd
+root-and-package;public;-//NISO//DTD dtbook 2005-3//EN;/usr/share/xml/dtbook/dtbook-2005-3.dtd
