@@ -1,0 +1,13 @@
+Source: dtbook-catalog
+Section: unknown
+Priority: optional
+Maintainer: Christian Egli <christian.egli@sbs.ch>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: dtbook-catalog
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

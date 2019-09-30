@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" xml:base="../xml/">
+	
+	<public publicId='-//NISO//DTD dtbook 2005-3//EN' uri='dtbook-2005-3.dtd'/>
+	<system systemId='http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd' uri='dtbook-2005-3.dtd'/>
+	
+</catalog>

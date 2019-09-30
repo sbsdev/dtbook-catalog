@@ -1,0 +1,5 @@
+/debian/.debhelper/
+/debian/debhelper-build-stamp
+/debian/dtbook-catalog.substvars
+/debian/dtbook-catalog/
+/debian/files

@@ -1,0 +1,22 @@
+* DTBook DTD
+
+A very small Debian package to install the DTBook DTD and update the
+XML catalogs
+
+* Build
+
+#+begin_src shell
+debuild -us -uc
+#+end_src
+
+* Install
+
+#+begin_src shell
+dpkg -i dtbook-catalog_0.1_all.deb
+#+end_src
+
+* License
+
+The DTD itself is copyright by W3C and is licensed under the [[https://www.w3.org/Consortium/Legal/2002/copyright-software-20021231][W3C
+Software Notice and License]]. The Debian packaging is
+licensed under the [[https://www.gnu.org/licenses/old-licenses/gpl-2.0.html][GNU General Public License, version 2]].
