@@ -2,7 +2,7 @@ Source: dtbook-catalog
 Section: text
 Priority: optional
 Maintainer: Christian Egli <christian.egli@sbs.ch>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 11), xml-core
 Standards-Version: 4.1.3
 Homepage: https://www.daisy.org/z3986/2005/dtbook-2005-3.dtd
 
