@@ -4,3 +4,5 @@
 /debian/dtbook-catalog/
 /debian/files
 *~
+/debian/dtbook-catalog.*.debhelper
+/debian/dtbook-catalog.debhelper.log
