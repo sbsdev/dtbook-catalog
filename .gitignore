@@ -3,3 +3,4 @@
 /debian/dtbook-catalog.substvars
 /debian/dtbook-catalog/
 /debian/files
+*~
